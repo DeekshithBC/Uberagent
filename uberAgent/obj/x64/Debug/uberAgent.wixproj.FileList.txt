@@ -1,0 +1,9 @@
+C:\Users\deekshith.bc\source\repos\uberAgent\bin\x64\Debug\en-us\uberAgent.msi
+C:\Users\deekshith.bc\source\repos\uberAgent\bin\x64\Debug\en-us\uberAgent.wixpdb
+obj\x64\Debug\WixUI_HK.wixobj
+obj\x64\Debug\ServerDlg.wixobj
+obj\x64\Debug\LicenseAgreementDlg_HK.wixobj
+obj\x64\Debug\Product.wixobj
+obj\x64\Debug\uberAgent.wixproj.BindContentsFileListen-us.txt
+obj\x64\Debug\uberAgent.wixproj.BindOutputsFileListen-us.txt
+obj\x64\Debug\uberAgent.wixproj.BindBuiltOutputsFileListen-us.txt

@@ -1,0 +1,2 @@
+C:\Users\deekshith.bc\source\repos\uberAgent\bin\x64\Release\en-us\uberAgent.msi
+C:\Users\deekshith.bc\source\repos\uberAgent\bin\x64\Release\en-us\uberAgent.wixpdb

@@ -1,0 +1,2 @@
+C:\Users\deekshith.bc\source\repos\UberAgent\uberAgent.conf
+C:\Users\deekshith.bc\source\repos\uberAgent\..\uberAgent\uberAgent.exe
